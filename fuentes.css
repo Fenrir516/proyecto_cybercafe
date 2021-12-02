@@ -1,0 +1,9 @@
+@font-face {
+    font-family:Minecrafter;
+    src: url(fuentes/Minecrafter.ttf);
+}
+h1{
+    font-family:Minecrafter;
+    font-size: 50px;
+
+}
